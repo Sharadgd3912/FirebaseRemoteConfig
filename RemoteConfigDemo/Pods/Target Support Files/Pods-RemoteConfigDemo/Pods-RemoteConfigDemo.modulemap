@@ -1,0 +1,6 @@
+framework module Pods_RemoteConfigDemo {
+  umbrella header "Pods-RemoteConfigDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
